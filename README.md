@@ -1,58 +1,90 @@
-# 👋 Olá! Bem-vindo ao meu perfil GitHub!
-## Meu nome é Gabriel Alves Pereira, mas pode me chamar de Pereira!
+<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h3 align="center">Desenvolvedor Full-Stack · Fintech & Sistemas de Alta Escala</h3>
 
-### Sobre Mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pereiragabrieldev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=gabrielpereira1603&style=for-the-badge&color=008FD2&label=Perfil" alt="Views"/>
+</p>
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente trabalhando na Santa Casa De Misericórdia de Votuporanga na área de TI. Estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas. Ao longo da minha jornada, desenvolvi diversas habilidades em tecnologias web e mobile, e estou sempre em busca de novos conhecimentos.
+---
 
-### 💼 Experiência Profissional
+### 🚀 Sobre mim
 
-- **Santa Casa De Misericórdia de Votuporanga**: Atuando na área de TI.
-- **SomosDevs**: Co-fundador da empresa, focada em soluções tecnológicas.
-- **Universidade**: Desenvolvi um sistema de manutenção de laboratórios para a universidade onde estudei.
-- **Projetos Acadêmicos**: Desenvolvimento de interfaces web e aplicativos desktop durante a faculdade.
+Sou desenvolvedor full-stack apaixonado por transformar problemas complexos em produtos que funcionam de verdade. Hoje atuo na construção de **plataformas financeiras (fintech)** — desde a arquitetura do backend até a experiência final do usuário — sempre buscando código limpo, escalável e bem testado.
 
-### 🎓 Educação
+- 🏦 Trabalhando com **sistemas de banking, pagamentos e adquirência** (Pix, conta digital, POS/maquininhas, conciliação com IA)
+- 🤝 Co-fundador da **SomosDevs**, estúdio de soluções tecnológicas
+- 💼 Área de TI na **Santa Casa de Misericórdia de Votuporanga**
+- 🎓 Finalizando **Análise e Desenvolvimento de Sistemas**
+- 🌱 Estudando **arquitetura limpa, escalabilidade e tempo real (WebSockets)**
 
-- **Graduação**: Análise e Desenvolvimento de Sistemas.
+---
 
-### 🌱 Aprendizado Atual
+### 🏦 Em destaque — PixPay
 
-- Escalabilidade de código.
-- Programação em tempo real com WebSockets.
-- Arquitetura de software limpa.
+Plataforma **white-label modular** de serviços financeiros, na qual atuo no desenvolvimento de ponta a ponta:
 
-### 🛠 Tecnologias e Ferramentas
+- **Internet Banking (BaaS)** — conta digital, Pix, extrato, boletos, limites e fluxos de aprovação
+- **Intelligence** — conciliação de cartões com **IA**, matching determinístico, agenda de recebíveis e chat
+- **PDV / Adquirência** — vendas via maquininha (POS), auditoria de margem e taxas
 
-#### Domínio
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+> Migração de um monólito legado para uma arquitetura moderna, com API tipada, documentação viva (OpenAPI) e design system compartilhado — reduzindo dívida técnica e ganhando escalabilidade.
 
-#### Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" width="40" height="40"/>
+---
+
+### 🛠️ Tecnologias
+
+**Domínio**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Ferramentas & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Aprendendo**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+---
 
 ### 📚 Projetos
 
-- **[MyCorte](https://github.com/gabrielpereira1603/MyCorte)**: Sistema de agendamento de horários para cabeleireiros.
-- **Sistema de Manutenção Integrado**: Ferramenta para gestão de manutenção de laboratórios.
-- **ParacatuPedidos**: Sistema de pedidos para restaurante.
-- **Sistema de Manutenção Integrado Mobile**: Aplicativo móvel para manutenção.
+| Projeto | Descrição |
+|---|---|
+| 🏦 **PixPay** | Plataforma fintech white-label (banking, Pix, adquirência e conciliação com IA) |
+| ✂️ [**MyCorte**](https://github.com/gabrielpereira1603/MyCorte) | Sistema de agendamento de horários para cabeleireiros |
+| 🍽️ **ParacatuPedidos** | Sistema de pedidos para restaurante |
+| 🔧 **Sistema de Manutenção Integrado** | Gestão de manutenção de laboratórios (web + mobile) |
 
-### 📫 Contatos
-
-<div>
-<a href="mailto:pereiragabrieldev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/gabrielalvespereira16/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/gabrielpereira1603" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
-
-### ⚡ Curiosidades
-
-- Durante a faculdade, desenvolvi um sistema de pedidos para um restaurante da família.
-- Estou sempre em busca de colaborar com projetos inovadores e desafiadores.
+---
 
 ### 📊 GitHub Stats
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpereira1603&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpereira1603&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielpereira1603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpereira1603&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpereira1603&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Sempre em busca de projetos inovadores e desafiadores. Bora construir algo grande? 🚀</i>
+</p>
